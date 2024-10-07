@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UpdatedCaps"
+        tools:targetApi="31">
+        <activity
+            android:name=".logout"
+            android:exported="false" />
+        <activity
+            android:name=".more_age6"
+            android:exported="false" />
+        <activity
+            android:name=".activitystory6"
+            android:exported="false" />
+        <activity
+            android:name=".activitystory5"
+            android:exported="false" />
+        <activity
+            android:name=".activitystory4"
+            android:exported="false" />
+        <activity
+            android:name=".activitystory3"
+            android:exported="false" />
+        <activity
+            android:name=".activitystory2"
+            android:exported="false" />
+        <activity
+            android:name=".activitystory1"
+            android:exported="false" />
+        <activity
+            android:name=".activitysound6"
+            android:exported="false" />
+        <activity
+            android:name=".activitysound5"
+            android:exported="false" />
+        <activity
+            android:name=".activitysound4"
+            android:exported="false" />
+        <activity
+            android:name=".activitysound3"
+            android:exported="false" />
+        <activity
+            android:name=".activitysound2"
+            android:exported="false" />
+        <activity
+            android:name=".activitysound1"
+            android:exported="false" />
+        <activity
+            android:name=".activityvid6"
+            android:exported="false" />
+        <activity
+            android:name=".activityvid5"
+            android:exported="false" />
+        <activity
+            android:name=".activityvid4"
+            android:exported="false" />
+        <activity
+            android:name=".activityvid3"
+            android:exported="false" />
+        <activity
+            android:name=".activityvid2"
+            android:exported="false" />
+        <activity
+            android:name=".activityvid1"
+            android:exported="false" />
+        <activity
+            android:name=".activityscience6"
+            android:exported="false" />
+        <activity
+            android:name=".activityscience5"
+            android:exported="false" />
+        <activity
+            android:name=".activityscience4"
+            android:exported="false" />
+        <activity
+            android:name=".activityscience3"
+            android:exported="false" />
+        <activity
+            android:name=".activityscience2"
+            android:exported="false" />
+        <activity
+            android:name=".activityscience1"
+            android:exported="false" />
+        <activity
+            android:name=".activitymath6"
+            android:exported="false" />
+        <activity
+            android:name=".activitymath5"
+            android:exported="false" />
+        <activity
+            android:name=".activitymath4"
+            android:exported="false" />
+        <activity
+            android:name=".activitymath3"
+            android:exported="false" />
+        <activity
+            android:name=".activitymath2"
+            android:exported="false" />
+        <activity
+            android:name=".activitymath1"
+            android:exported="false" />
+        <activity
+            android:name=".activityanimals6"
+            android:exported="false" />
+        <activity
+            android:name=".activityanimals5"
+            android:exported="false" />
+        <activity
+            android:name=".activityanimals4"
+            android:exported="false" />
+        <activity
+            android:name=".activityanimals3"
+            android:exported="false" />
+        <activity
+            android:name=".activityanimals2"
+            android:exported="false" />
+        <activity
+            android:name=".activityanimals1"
+            android:exported="false" />
+        <activity
+            android:name=".activitycolor6"
+            android:exported="false" />
+        <activity
+            android:name=".activitycolor5"
+            android:exported="false" />
+        <activity
+            android:name=".activitycolor4"
+            android:exported="false" />
+        <activity
+            android:name=".activitycolor3"
+            android:exported="false" />
+        <activity
+            android:name=".activitycolor2"
+            android:exported="false" />
+        <activity
+            android:name=".activitycolor1"
+            android:exported="false" />
+        <activity
+            android:name=".activityshapes6"
+            android:exported="false" />
+        <activity
+            android:name=".activityshapes5"
+            android:exported="false" />
+        <activity
+            android:name=".activityshapes4"
+            android:exported="false" />
+        <activity
+            android:name=".activityshapes3"
+            android:exported="false" />
+        <activity
+            android:name=".activityshapes2"
+            android:exported="false" />
+        <activity
+            android:name=".activityshapes1"
+            android:exported="false" />
+        <activity
+            android:name=".scienceq"
+            android:exported="false" />
+        <activity
+            android:name=".sciencevid"
+            android:exported="false" />
+        <activity
+            android:name=".mathq"
+            android:exported="false" />
+        <activity
+            android:name=".mathvid"
+            android:exported="false" />
+        <activity
+            android:name=".storieq"
+            android:exported="false" />
+        <activity
+            android:name=".storiesvid"
+            android:exported="false" />
+        <activity
+            android:name=".animalq"
+            android:exported="false" />
+        <activity
+            android:name=".animalvid"
+            android:exported="false" />
+        <activity
+            android:name=".shapeq"
+            android:exported="false" />
+        <activity
+            android:name=".shapevid"
+            android:exported="false" />
+        <activity
+            android:name=".colq"
+            android:exported="false" />
+        <activity
+            android:name=".colvid"
+            android:exported="false" />
+        <activity
+            android:name=".FinalActivity"
+            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".record"-->
+<!--            android:exported="false" />-->
+        <activity
+            android:name=".letq"
+            android:exported="false" />
+        <activity
+            android:name=".letvid"
+            android:exported="false" />
+        <activity
+            android:name=".Activitylet6"
+            android:exported="false" />
+        <activity
+            android:name=".Activitylet5"
+            android:exported="false" />
+        <activity
+            android:name=".Activitylet4"
+            android:exported="false" />
+        <activity
+            android:name=".Activitylet3"
+            android:exported="false" />
+        <activity
+            android:name=".Activitylet2"
+            android:exported="false" />
+        <activity
+            android:name=".Activitylet1"
+            android:exported="false" />
+        <activity
+            android:name=".activitynum6"
+            android:exported="false" />
+        <activity
+            android:name=".activitynum5"
+            android:exported="false" />
+        <activity
+            android:name=".activitynum4"
+            android:exported="false" />
+        <activity
+            android:name=".activitynum3"
+            android:exported="false" />
+        <activity
+            android:name=".activitynum2"
+            android:exported="false" />
+        <activity
+            android:name=".activitynum1"
+            android:exported="false" />
+        <activity
+            android:name=".numvid"
+            android:exported="false" />
+        <activity
+            android:name=".numq"
+            android:exported="false" />
+        <activity
+            android:name=".more"
+            android:exported="false" />
+        <activity
+            android:name=".home2"
+            android:exported="false" />
+        <activity
+            android:name=".home1"
+            android:exported="false" />
+        <activity
+            android:name=".home"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".Welcome"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
